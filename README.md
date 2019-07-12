@@ -1,21 +1,21 @@
 # T1 - Rasterization
 
 ## Menu
-[1. Introduction](https://github.com/LuanQBarbosa/computer-graphics-project/new/master?readme=1#introduction)
+[1. Introduction](#introduction)
 
-[2. Function PutPixel](https://github.com/LuanQBarbosa/computer-graphics-project/new/master?readme=1#function-putpixel)
+[2. Function PutPixel](#function-putpixel)
 
-[3. Function DrawLine](https://github.com/LuanQBarbosa/computer-graphics-project/new/master?readme=1#function-drawline)
+[3. Function DrawLine](#function-drawline)
 
-[4. Function DrawTriangle](https://github.com/LuanQBarbosa/computer-graphics-project/new/master?readme=1#function-drawtriangle)
+[4. Function DrawTriangle](#function-drawtriangle)
 
-[5. Filling the triangle](https://github.com/LuanQBarbosa/computer-graphics-project/new/master?readme=1#filling-the-triangle)
+[5. Filling the triangle](#filling-the-triangle)
 
-[6. Conclusion](https://github.com/LuanQBarbosa/computer-graphics-project/new/master?readme=1#conclusion)
+[6. Conclusion](#conclusion)
 
-[7. References](https://github.com/LuanQBarbosa/computer-graphics-project/new/master?readme=1#references)
+[7. References](#references)
 
-[8. Authors](https://github.com/LuanQBarbosa/computer-graphics-project/new/master?readme=1#authors)
+[8. Authors](#authors)
 
 ## Introduction
 
@@ -331,7 +331,7 @@ Although this approach provided us a bugless generic triangle rasterized, we wer
 
 By the end of this project, we were able to have a better understanding about pixels and lines rasterization algorithms and get some nice results. However, we had to deal with some trouble before accomplishing this. The task we needed to spend most time was the DrawLine function due to its very specific restriction for all eight octants. This project also gave us an important introduction to OpenGL as we initially had some issues to deal with the API specially on Windows OS.
 
-About the extra, we were satisfied with our results even without being able to interpolate the triangle’s colors which is something that is open for improvement. It was the only step that we have not seen class so we needed to deal with more bugs and spend more time doing research than usual.
+About the extra, we were satisfied with our results even without being able to interpolate the triangle’s colors which is something that is open for improvement. It was the only step that we have not seen in class so we needed to deal with more bugs and spend more time doing research than usual.
 
 ## References
 
